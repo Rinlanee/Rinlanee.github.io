@@ -1,0 +1,13 @@
+body{
+    background-color: #ffbaa2;
+    font-family: 'Athiti', sans-serif;
+}
+
+nav{
+    background-color: #365367;
+}
+
+.my-container{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
