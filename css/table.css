@@ -1,0 +1,17 @@
+table{
+    background-color: #f494ab;
+}
+
+table tbody tr td:hover{
+    cursor: pointer;
+    background: rgb(116, 98, 98, 0.6);
+}
+
+table tbody tr th:hover{
+    cursor: pointer;
+    background: rgba(255, 106, 106, 0.6);
+}
+
+table tbody tr td{
+    background-color: lightyellow;
+}

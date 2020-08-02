@@ -11,3 +11,30 @@ nav{
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+
+h1 {
+    font-size: 6em;
+}
+
+table{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.my-content {
+    display: flex;
+    justify-content: center;
+    padding: 3vw;
+}
+
+
+.my-content > * {
+    margin: auto;
+}
+
+
+.text {
+    width: 40vw;
+    padding: 2vw
+}
